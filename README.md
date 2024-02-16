@@ -2,6 +2,6 @@ Introduction: The KaggleX BIPOC Mentorship Program helps to "... increase repres
 
 Check out the program: https://www.kaggle.com/kagglex
 
-Problem Statement: As someone who is trantioning into the data field, I wanted to look at what some of the top programming languages are out there. The project aimed to analyze data from Kaggle of programming lanaguages used on GitHub and determine the top programming lanagauages on the platform. Additionally, I wanted to visualize the information and build an unsupervised machine learning model with the data to detemine which languages I should focus on during my trantion into data.
+Problem Statement: As someone who is transitioning into the data field from a non-technical background, I wanted to look at what some of the top programming languages are out there. The project aimed to analyze data from Kaggle of programming lanaguages used on GitHub and determine the top programming lanagauages on the platform. Additionally, I wanted to visualize the information and build an unsupervised machine learning model with the data to detemine which languages I should focus on during my trantion into data.
 
 Check out my final showcase video: https://www.youtube.com/watch?v=dUqW8Qsg7UY
